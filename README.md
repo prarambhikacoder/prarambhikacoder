@@ -12,9 +12,8 @@
 ---
 
 💡 *About Me*  
-I'm a passionate and versatile AI/ML developer who loves building intelligent systems that combine the power of software algorithms with hardware-driven innovation. I thrive at the intersection of machine learning, computer vision, and embedded systems, constantly exploring new ways to solve real-world problems. Whether it’s training deep learning models or integrating them into resource-constrained devices, I’m driven by curiosity, creativity, and the desire to make a meaningful impact through technology.
 
----
+Hi there! I'm currently pursuing a B.Tech in Electronics and Communication Engineering (ECE). I'm passionate about the intersection of software and hardware, and I love exploring how technology can solve real-world problems.I have experience with Python, C, and HTML.Currently diving into the exciting world of Machine Learning and Deep Learning.Always eager to learn new tools and technologies.On a journey to build meaningful projects and contribute to open source!Let’s connect and build something great together! 🚀
 
 ### 🌐 SOCIALS
 
